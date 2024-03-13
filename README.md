@@ -5,7 +5,7 @@
 </h1>
 
 <h3>
-<p align="justify"> Meu nome é Bruno, sou formado em Ciências da Computação pela Faculdade de Americana-FAM, focado em aprender e aprimorar habilidades para o Desenvolvimento Mobile com a linguagem Java.
+<p align="justify"> Meu nome é Bruno, sou formado em Ciências da Computação pela Faculdade de Americana-FAM,atualmente cursando Análise e Desenvolvimento de Sistemas, focado em aprender e aprimorar habilidades para desenvolvimento back-end.
  <br>
 Apaixonado por tecnologia, alguns de meus passatempos são jogos, assistir animes e jogar futebol.</p>
 </h3>
